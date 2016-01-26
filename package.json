@@ -1,0 +1,17 @@
+{
+  "name": "congenial",
+  "version": "0.0.5",
+  "description": "a system of system watcher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "watch",
+    "opration",
+    "watch"
+  ],
+  "author": "pigo",
+  "license": "MIT"
+}
